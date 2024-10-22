@@ -1,0 +1,3 @@
+com\example\userservice\User.class
+com\example\userservice\LamdaDynamoDbApplication.class
+com\example\userservice\DynamoDbConfig.class
