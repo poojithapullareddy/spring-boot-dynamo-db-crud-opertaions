@@ -19,7 +19,7 @@ A simple CRUD application using Spring Boot and AWS DynamoDB.
 
 2. **Configure AWS credentials:**
 
-   In `src/main/resources/application.yml`, replace the placeholders with your AWS details:
+   In `src/main/resources/application.properties`, replace the placeholders with your AWS details:
    aws.dynamodb.accessKey=REPLACE_WITH_YOUR_AWS_ACCESS_KEY
    aws.dynamodb.secretKey=REPLACE_WITH_YOUR_AWS_SECRET_KEY
    aws.dynamodb.region=<DYNAMODB-REGION>
